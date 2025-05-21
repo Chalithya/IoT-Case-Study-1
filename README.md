@@ -15,7 +15,6 @@ The project is divided into 9 modules plus a main system integration component:
 7. **Fire Detection** - Emergency response system
 8. **Mobile App Simulation** - Interface for controlling the system
 9. **Weather-Based Adaptation** - Adjust settings based on external conditions
-10. **Main System** - Integration of all subsystems
 
 ## Getting Started
 
