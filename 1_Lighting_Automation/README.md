@@ -9,4 +9,5 @@
 - If no motion detected since 5 mins, dim lights
 - If high ambient light or no motion detected since 15 mins, turn off lights
 - If time after 9 pm, dim lights
-- If time after 11 pm, turn off lights 
+- If time after 11 pm, turn off lights
+- TinkerCad Link :  https://www.tinkercad.com/things/43pVgZz3eHG-light-automation-smart-home-with-lcd 
