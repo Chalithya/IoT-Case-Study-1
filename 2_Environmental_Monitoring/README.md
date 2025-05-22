@@ -2,14 +2,14 @@
 
 This project simulates a smart **HVAC (Heating, Ventilation, and Air Conditioning)** control system that monitors temperature and humidity in each room and automatically manages fan and heater status using LEDs. The system displays real-time data on an I2C-enabled LCD.
 
-## ✅ Objectives
+## Objectives
 
 - Monitor **temperature** and **humidity** for each room using **DHT11 sensors**
 - Control **fans and heaters** with **LEDs** based on environmental conditions
 - Display real-time sensor readings on an **I2C LCD**
 - Apply decision-making rules for energy efficiency and comfort
 
-## 🧰 Components Used
+## Components Used
 
 - Arduino Uno
 - DHT11 Temperature and Humidity Sensor (1 per room)
@@ -18,7 +18,7 @@ This project simulates a smart **HVAC (Heating, Ventilation, and Air Conditionin
 - Blue LED (Fan)
 - Jumper wires, breadboard, resistors
 
-## 🧠 Control Rules
+##  Control Rules
 
 | Condition                                             | Action             |
 |------------------------------------------------------|--------------------|
