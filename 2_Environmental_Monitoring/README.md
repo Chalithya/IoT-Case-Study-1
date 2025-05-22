@@ -29,7 +29,24 @@ This project simulates a smart **HVAC (Heating, Ventilation, and Air Conditionin
 | Temperature < 25°C AND Humidity < 40%                | Turn OFF fan       |
 | Humidity > 90%                                       | Turn ON fan        |
 
-## 📺 Real-Time LCD Display
 
-Displays temperature and humidity of all rooms in the format:
+- Uses **I2C protocol** for simplified LCD wiring
+- Updates continuously with latest sensor values
+
+## ⚙️ How to Use
+
+1. Connect the components as per the Tinkercad circuit diagram.
+2. Upload the Arduino code.
+3. Observe LED behavior based on temperature and humidity values.
+4. Check real-time values on the LCD screen.
+
+## 🔗 Tinkercad Simulation Links
+
+- 🔧 **Tinkercad - Kabir**: [Click here to view](https://www.tinkercad.com/things/16kmXZnSeAV-copy-of-20-dht11-temperature-and-humidity-sensor/editel?returnTo=%2Fthings%2F16kmXZnSeAV-copy-of-20-dht11-temperature-and-humidity-sensor&sharecode=WJGg8xuPlnL_m_0ew0XYyJNQWKNeAQ-nNBFEhfM3PUI)
+
+- 🔧 **Tinkercad - Siddhi**: [Click here to view](https://www.tinkercad.com/things/8GWsDSycRc1-newwass/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+
+---
+
+
 
